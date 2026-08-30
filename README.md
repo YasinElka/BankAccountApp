@@ -2,6 +2,7 @@
 
 A simple C# Windows Forms application for managing bank accounts.
 
+![BankAccountApp Screenshot](screenshot.png)
 ## About the Project
 
 BankAccountApp is a desktop application developed in C# using Windows Forms.
